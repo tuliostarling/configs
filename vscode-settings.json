@@ -1,0 +1,62 @@
+{
+  "workbench.colorTheme": "Theme",
+  "workbench.iconTheme": "material-icon-theme",
+  "material-icon-theme.activeIconPack": "react",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "[elixir]": {
+    "editor.defaultFormatter": "JakeBecker.elixir-ls"
+  },
+  // sidebar settings
+  "window.titleBarStyle": "native",
+  "workbench.editor.labelFormat": "short",
+  "workbench.editor.highlightModifiedTabs": true,
+  "workbench.editor.tabCloseButton": "off",
+  "workbench.startupEditor": "none",
+  "workbench.statusBar.visible": true,
+  "workbench.layoutControl.enabled": false,
+  "workbench.tree.indent": 12,
+  "workbench.sideBar.location": "right",
+  // minimap, highlights and breadcrumb settings
+  "editor.padding.bottom": 14,
+  "editor.padding.top": 14,
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.codeLens": false,
+  "editor.parameterHints.enabled": false,
+  "editor.inlayHints.enabled": "off",
+  "editor.inlineSuggest.enabled": false,
+  "editor.minimap.enabled": false,
+  "editor.fontWeight": "350",
+  "editor.fontLigatures": true,
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.smoothScrolling": true,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorStyle": "line-thin",
+  "editor.largeFileOptimizations": false,
+  "editor.renderWhitespace": "none",
+  "editor.renderLineHighlight": "all",
+  "editor.overviewRulerBorder": false,
+  "editor.occurrencesHighlight": false,
+  "editor.glyphMargin": false,
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "editor.foldingStrategy": "indentation",
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": false
+  },
+  "editor.unicodeHighlight.nonBasicASCII": false,
+  "editor.unicodeHighlight.invisibleCharacters": false,
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "editor.guides.indentation": false,
+  "editor.rulers": [
+    90,
+    120
+  ],
+  "breadcrumbs.enabled": false,
+  // file explorer settings
+  "explorer.compactFolders": true,
+  "explorer.openEditors.visible": 0,
+  "explorer.autoReveal": false
+}
